@@ -9,7 +9,19 @@
 </p>
 
 ---
+## 👨‍🎓 About My Studies
 
+I am Adrián Marqués, a passionate **Web Developer** with a background in **Web Application Development (DAW)**. During my studies, I gained extensive hands-on experience in building dynamic, responsive, and user-friendly web applications.  
+
+My core strengths lie in **Java**, which has been the foundation of many of my projects, and **Vue.js**, a framework that allows me to create modern, interactive user interfaces. Additionally, I have practical experience working with **PHP**, enabling me to design and maintain robust back-end solutions.  
+
+I am a curious and motivated learner, always open to exploring new programming languages and frameworks to expand my knowledge and adapt to the evolving world of technology.  
+
+## 💼 Seeking Job Opportunities
+
+I am actively looking for a position as a **Web Developer**. I am passionate about creating efficient and scalable web solutions and am eager to bring my skills to a dynamic team. If you are interested in collaborating or have any opportunities, please feel free to [contact me](mailto:adrianmarquesroqueta@gmail.com) or [download my resume](Marques.Roqueta.Adrian.CV.pdf).
+
+---
 <div align="center">
   
 # 💫 About Me:
@@ -23,11 +35,6 @@
 💬 Ask me about anything: [adrianmarquesroqueta@gmail.com](mailto:adrianmarquesroqueta@gmail.com)
 
 ⚡ Fun fact: I love sports and exercise! 🏋️‍♂️  
-
----
-
-💼 **Looking for opportunities!**  
-I’m currently seeking a position as a **Web Developer**. If you're interested in working with me, feel free to [download my resume](Marques.Roqueta.Adrian.CV.pdf) or reach out via email. 
 
 ## 🌐Socials
 
@@ -52,7 +59,6 @@ I’m currently seeking a position as a **Web Developer**. If you're interested 
 ![](https://github-readme-stats.vercel.app/api?username=Adriian20&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Adriian20&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Adriian20&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 ### ✍️Random Dev Quote
 
