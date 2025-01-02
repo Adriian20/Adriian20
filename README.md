@@ -12,18 +12,22 @@
 
 <div align="center">
   
-# 💫About Me :
-🔭 I’m currently working on my github page : https://github.com/Adriian20
-  
-🌱 I’m currently learning : React
+# 💫 About Me:
 
-👯 I’m looking to collaborate on my webpage
+🔭 I’m currently working on my [GitHub page](https://github.com/Adriian20). I hold a **Web Application Development** superior degree.
 
-🤔 I’m Not looking for help
+🌱 I’m currently learning: **React**
 
-💬 Ask me about for any help
+🎯 I am currently focusing on: ⭐️ **Myself**
 
-⚡ Fun fact: I love sports and do exercise
+💬 Ask me about anything: [adrianmarquesroqueta@gmail.com](mailto:adrianmarquesroqueta@gmail.com)
+
+⚡ Fun fact: I love sports and exercise! 🏋️‍♂️  
+
+---
+
+💼 **Looking for opportunities!**  
+I’m currently seeking a position as a **Web Developer**. If you're interested in working with me, feel free to [download my resume](Marques.Roqueta.Adrian.CV.pdf) or reach out via email. 
 
 ## 🌐Socials
 
