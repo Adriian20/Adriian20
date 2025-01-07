@@ -24,19 +24,28 @@ I am actively looking for a position as a **Web Developer**. I am passionate abo
 ---
 <div align="center">
   
-# 💫 About Me:
+# 💫 About Me
 
-🔭 I’m currently working on my [GitHub page](https://github.com/Adriian20). I hold a **Web Application Development** superior degree.
+👋 Hi, I'm Adrián Marqués Roqueta, a passionate web developer!
 
-🌱 I’m currently learning: **React**
+🔭 **Currently working on:**  
+   [My GitHub page](https://github.com/Adriian20)  
+   I hold a **Web Application Development** superior degree.
 
-🎯 I am currently focusing on: ⭐️ **Myself**
+🌱 **I’m currently learning:**  
+   **React** — constantly improving my skills to build modern web applications.
 
-📂 Check out my portfolio: [Adrián Marqués Portfolio](https://portafolio-web-developer-adrianmarques.vercel.app/)
+🎯 **Focus:**  
+   ⭐️ **Personal Growth** — dedicating time to learning new technologies and working on personal projects.
 
-💬 Ask me about anything: [adrianmarquesroqueta@gmail.com](mailto:adrianmarquesroqueta@gmail.com)
+📂 **Check out my portfolio:**  
+   [Adrián Marqués Portfolio](https://portafolio-web-developer-adrianmarques.vercel.app/)
 
-⚡ Fun fact: I love sports and exercise! 🏋️‍♂️  
+💬 **Feel free to reach out to me:**  
+   [adrianmarquesroqueta@gmail.com](mailto:adrianmarquesroqueta@gmail.com)
+
+⚡ **Fun fact:**  
+   I love sports and exercise! 🏋️‍♂️ Staying active is one of my passions. 
 
 ## 🌐Socials
 
