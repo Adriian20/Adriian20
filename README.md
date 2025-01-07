@@ -28,11 +28,11 @@ I am actively looking for a position as a **Web Developer**. I am passionate abo
 
 🔭 I’m currently working on my [GitHub page](https://github.com/Adriian20). I hold a **Web Application Development** superior degree.
 
-📂 Check out my portfolio: [Adrián Marqués Portfolio](https://portafolio-web-developer-adrianmarques.vercel.app/)
-
 🌱 I’m currently learning: **React**
 
 🎯 I am currently focusing on: ⭐️ **Myself**
+
+📂 Check out my portfolio: [Adrián Marqués Portfolio](https://portafolio-web-developer-adrianmarques.vercel.app/)
 
 💬 Ask me about anything: [adrianmarquesroqueta@gmail.com](mailto:adrianmarquesroqueta@gmail.com)
 
