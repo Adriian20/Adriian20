@@ -22,7 +22,6 @@ I am a curious and motivated learner, always open to exploring new programming l
 I am actively looking for a position as a **Web Developer**. I am passionate about creating efficient and scalable web solutions and am eager to bring my skills to a dynamic team. If you are interested in collaborating or have any opportunities, please feel free to [contact me](mailto:adrianmarquesroqueta@gmail.com) or [download my resume](Marques.Roqueta.Adrian.CV.pdf).
 
 ---
-<div align="center">
   
 # 💫 About Me
 
@@ -47,6 +46,7 @@ I am actively looking for a position as a **Web Developer**. I am passionate abo
 ⚡ **Fun fact:**  
    I love sports and exercise! 🏋️‍♂️ Staying active is one of my passions. 
 
+<div align="center">
 ## 🌐Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-marques/)
