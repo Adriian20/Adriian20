@@ -47,6 +47,7 @@ I am actively looking for a position as a **Web Developer**. I am passionate abo
    I love sports and exercise! 🏋️‍♂️ Staying active is one of my passions. 
 
 <div align="center">
+
 ## 🌐Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-marques/)
